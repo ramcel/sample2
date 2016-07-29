@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width, shrink-to-fit=no, initial-scale=1">
 <meta name="description" content="This Teacher's community is where teachers discuss teaching strategies, share resources, and connect with each other.">
 <meta name="keywords" content="teacher,community">
-<title>Teacher Commnunity</title>
+<title>hahahahah Teacher Commnunity</title>
 <link rel="stylesheet" href="bootstrap/liveurl.css" />
 <!-- Bootstrap Core CSS -->
 <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
